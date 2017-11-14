@@ -1,0 +1,24 @@
+{
+  "name": "processfy",
+  "version": "0.0.0",
+  "description": "processfy lets you organize your business processes inside NodeJs in a very clear and proper way, turning your procedures into a code that really make sense for your business organization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvaCoder/processfy.git"
+  },
+  "keywords": [
+    "processfy",
+    "business",
+    "pipe"
+  ],
+  "author": "Silva, Marco Aurélio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilvaCoder/processfy/issues"
+  },
+  "homepage": "https://github.com/SilvaCoder/processfy#readme"
+}
